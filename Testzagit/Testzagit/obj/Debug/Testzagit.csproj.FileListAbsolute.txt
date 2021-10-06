@@ -1,0 +1,7 @@
+C:\pro2021\Testzagit\Testzagit\bin\Debug\Testzagit.exe.config
+C:\pro2021\Testzagit\Testzagit\bin\Debug\Testzagit.exe
+C:\pro2021\Testzagit\Testzagit\bin\Debug\Testzagit.pdb
+C:\pro2021\Testzagit\Testzagit\obj\Debug\Testzagit.csproj.AssemblyReference.cache
+C:\pro2021\Testzagit\Testzagit\obj\Debug\Testzagit.csproj.CoreCompileInputs.cache
+C:\pro2021\Testzagit\Testzagit\obj\Debug\Testzagit.exe
+C:\pro2021\Testzagit\Testzagit\obj\Debug\Testzagit.pdb
